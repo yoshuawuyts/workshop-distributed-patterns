@@ -1,0 +1,16 @@
+{
+  "name": "distributed-patterns-workshop",
+  "version": "1.0.0",
+  "description": "Learn how to create robust multi-server applications in Node",
+  "main": "build.js",
+  "private": "true",
+  "scripts": {
+    "build": "./build.js"
+  },
+  "author": "Yoshua Wuyts <i@yoshuawuyts.com>",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.5",
+    "rimraf": "^2.5.2"
+  }
+}
