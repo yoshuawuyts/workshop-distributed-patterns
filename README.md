@@ -11,9 +11,15 @@ accessible [log structure][log]:
 - [ ] queue with single node
 - [ ] queue with workers
 
+## Thanks
+Shout out to [Mathias](https://github.com/mafintosh) for trailblazing this
+workshop format.
+
 ## See Also
 - [nodeschool.io](https://nodeschool.io)
 - [mafintosh/p2p-workshop](https://github.com/mafintosh/p2p-workshop)
+- [production ready node architecture](https://www.youtube.com/watch?v=9Qg9q5ABsvE)
+- [12 factor app](http://12factor.net/)
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
