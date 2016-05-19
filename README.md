@@ -2,9 +2,13 @@
 Learn how to create robust multi-server applications in Node
 
 ## Contents
-In this workshop we'll be writing a tiny Twitter implemenatation, aka network
-accessible [log structure][log]:
-- [ ] create an http server and persist data
+
+## Hard mode
+For the second part of the workshop, a bunch of hard mode exercises have been
+included. These require thorough knowledge of Node, but produce a good amount
+of real-world value. In this workshop we'll be writing a tiny Twitter
+implemenatation, aka network accessible [log structure][log]:
+- [x] create an http server and persist data
 - [ ] RPC with single Node
 - [ ] RPC with Protobuf
 - [ ] round robin with workers

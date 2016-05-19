@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message Tweet {
+  required int32 time = 0;
+  required string content = 1;
+}
