@@ -10,6 +10,7 @@ Learn how to create robust multi-server applications in Node
 - [protobufs]()
 - [synchronized PUBSUB]()
 - [extended REQREP]()
+- [ROUTERDEALER]()
 - [PUSHPULL pipeline]()
 - [PUSHPULL pipeline with kill]()
 
