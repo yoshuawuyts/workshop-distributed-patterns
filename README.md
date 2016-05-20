@@ -2,6 +2,15 @@
 Learn how to create robust multi-server applications in Node
 
 ## Contents
+- [intro](00.html)
+- [REQREP](01.html)
+- [PUSHPULL](02.html)
+- [PUBSUB]()
+- [PAIR]()
+- [protobufs]()
+- [synchronized PUBSUB]()
+- [extended REQREP]()
+- [fan out]()
 
 ## Hard mode
 For the second part of the workshop, a bunch of hard mode exercises have been
