@@ -10,7 +10,8 @@ Learn how to create robust multi-server applications in Node
 - [protobufs]()
 - [synchronized PUBSUB]()
 - [extended REQREP]()
-- [fan out]()
+- [PUSHPULL pipeline]()
+- [PUSHPULL pipeline with kill]()
 
 ## Hard mode
 For the second part of the workshop, a bunch of hard mode exercises have been
