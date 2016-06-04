@@ -10,15 +10,10 @@ const schema = pbuf(`
 `)
 
 const argv = process.argv.slice(2)
-assert.equal(argv.length, 2, 'usage: encode <name> <age>')
+assert.equal(argv.length, 1, 'usage: decode <file>')
 
-const name = argv[0]
-const age = argv[1]
+const file = argv[0]
 
-const buf = schema.Foo.encode({
-  name: name,
-  age: age
-})
-
-const ws = fs.createWriteStream('./user.message')
-ws.end(buf)
+const buf = fs.readFileSync(file)
+const msg = schema.Foo.decode(buf)
+console.log(msg)
