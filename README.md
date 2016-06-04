@@ -3,14 +3,13 @@ Learn how to create robust multi-server applications in Node
 
 ## Contents
 - [intro](00.html)
-- [REQREP](01.html)
-- [PUSHPULL](02.html)
-- [PUBSUB]()
-- [PAIR]()
-- [protobufs]()
-- [synchronized PUBSUB]()
+- [rpc](01.html)
+- [message queue](02.html)
+- [pubsub](03.html)
+- [protobufs](04.html)
+- [pubsub with channels]()
 - [extended REQREP]()
-- [ROUTERDEALER]()
+- [load balancer]()
 - [PUSHPULL pipeline]()
 - [PUSHPULL pipeline with kill]()
 
