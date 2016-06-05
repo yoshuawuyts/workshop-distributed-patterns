@@ -12,13 +12,14 @@ fs.readdirSync(base).forEach(function (name) {
   var input = path.join(base, name)
   var output = path.join(__dirname, 'build', name.replace('.md', '.html'))
   var html = marked(fs.readFileSync(input, 'utf-8'))
+  console.log(html)
   var file = `
     <html>
       <head>
         <title>Problem ${name.replace('.md', '')}</title>
         <style> body { padding: 40px; } ${css} </style>
       </head>
-      <body class="markdown-body">${html}</body>
+      <body class="markdown-body" style="width: 900px; margin: auto;">${html}</body>
     </html>
   `
 
