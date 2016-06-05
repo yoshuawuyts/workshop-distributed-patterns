@@ -15,7 +15,7 @@ sub2.connect(addr)
 sub2.chan(['beep', 'boop'])
 sub2.on('data', (buf) => console.log(String(buf)))
 
-setTimeout(function () {
+setInterval(function () {
   pub.send('foo world')
   pub.send('bar world')
   pub.send('beep world')
