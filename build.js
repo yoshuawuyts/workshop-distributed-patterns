@@ -19,7 +19,7 @@ fs.readdirSync(base).forEach(function (name) {
         <title>Problem ${name.replace('.md', '')}</title>
         <style> body { padding: 40px; } ${css} </style>
       </head>
-      <body class="markdown-body" style="width: 900px; margin: auto;">${html}</body>
+      <body class="markdown-body" style="width: 500px; margin: auto;">${html}</body>
     </html>
   `
 
