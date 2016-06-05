@@ -10,7 +10,7 @@ Learn how to create robust multi-server applications in Node
 - [decode protobufs](05.html)
 - [pubsub with channels](06.html)
 - [extended REQREP](07.html)
-- [PUSHPULL pipeline]()
+- [PUSHPULL pipeline](08.html)
 - [PUSHPULL pipeline with kill]()
 
 ## Thanks
