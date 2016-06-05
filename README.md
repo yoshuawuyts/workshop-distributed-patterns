@@ -1,4 +1,4 @@
-# distributed-patterns-workshop
+# workshop-distributed-patterns
 Learn how to create robust multi-server applications in Node
 
 ## Contents

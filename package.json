@@ -1,5 +1,5 @@
 {
-  "name": "distributed-patterns-workshop",
+  "name": "workshop-distributed-patterns",
   "version": "1.0.0",
   "description": "Learn how to create robust multi-server applications in Node",
   "main": "build.js",
