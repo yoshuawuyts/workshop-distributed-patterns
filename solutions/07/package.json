@@ -1,0 +1,12 @@
+{
+  "name": "01",
+  "private": "true",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "nanomsg": "^3.1.1",
+    "protocol-buffers": "^3.1.6"
+  }
+}

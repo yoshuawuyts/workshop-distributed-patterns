@@ -9,8 +9,7 @@ Learn how to create robust multi-server applications in Node
 - [encode protobufs](04.html)
 - [decode protobufs](05.html)
 - [pubsub with channels](06.html)
-- [extended REQREP]()
-- [load balancer]()
+- [extended REQREP](07.html)
 - [PUSHPULL pipeline]()
 - [PUSHPULL pipeline with kill]()
 
